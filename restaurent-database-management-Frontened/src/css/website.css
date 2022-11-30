@@ -1,0 +1,19 @@
+.backgroundImage {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/003/823/542/non_2x/spices-for-use-as-cooking-ingredients-on-a-wooden-background-with-fresh-vegetables-healthy-food-herbs-organic-vegetables-on-the-table-raw-materials-of-cooking-preparation-tom-yum-free-photo.jpg");
+
+  background-repeat: no-repeat;
+  height: 1000px;
+
+  background-position: fixed;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td,
+th {
+  padding: 10px;
+}
